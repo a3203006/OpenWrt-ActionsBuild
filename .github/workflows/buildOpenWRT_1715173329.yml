@@ -1,5 +1,5 @@
 ####################################
-#  update for 2022/02/08 18:02:07  #
+#  update for 2022/02/09 00:23:37  #
 ####################################
 name: 编译固件_1715173329-immortalwrt
 
@@ -13,6 +13,7 @@ on:
         options:
           - "XIAOMI-4A_100M"
           - "XIAOMI-4A_GIGABit"
+          - "橙派 R1 Plus"
       repo_branch:
         type: choice
         description: '版本分支'
